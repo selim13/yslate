@@ -1,0 +1,19 @@
+{
+  "name": "yslate",
+  "description": "Quick and dirty HTML translation form that uses Yandex translator",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "prettier": "^2.0.5",
+    "sass": "^1.26.7"
+  },
+  "dependencies": {
+    "ky": "^0.20.0"
+  },
+  "browserslist": [
+    "defaults"
+  ]
+}
